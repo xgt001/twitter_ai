@@ -6,11 +6,13 @@ import simplejson
 import json
 import pprint
 
-consumer_key="kn72W8bE5hotLnYmrZ1xEw"
-consumer_secret="DMlJCbLauL948xQHgwVx4gZOHW7QyKTuEGgCPWnjmg"
 
-access_token="221800045-9QxypqSWiCUa2715DrDIhbDlmGw0nJFIjUYG1AhF"
-access_token_secret="5IakLqoBEMPc9p8aYFVaS0EjM5PfN6Ztv0yswtxgDto"
+#please note that the keys are alterred use your own key values
+consumer_key="kn72W8bE5hotLnYmrZadfa1xEw"
+consumer_secret="DMlJCbLauL948xQHgwVx4gZOHW7QyKfdsTuEGgCPWnjmg"
+
+access_token="221800045-9QxypqSWiCUa2adsfas715DrDIhbDlmGw0nJFIjUYG1AhF"
+access_token_secret="5IakLqoBEMPc9p8aYFVasdfaaS0EjM5PfN6Ztv0yswtxgDto"
 
 #auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 #auth.set_access_token(access_token, access_token_secret)
