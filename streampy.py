@@ -39,7 +39,7 @@ class StdOutListener(StreamListener):
 		
 		print tweets
 		
-		
+		count = 0
 
 #		if (count == 10):
 #			print "10 tweets fetched"
